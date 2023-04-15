@@ -12,7 +12,7 @@ If you or anyone you know is looking for a skilled front-end developer with a pa
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmalyeyev)
+<a href="https://linkedin.com/in/nmalyeyev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 
 ## 💻 Tech Stack:
 
