@@ -4,11 +4,11 @@ I'm an aspiring front-end developer. 💻 I'm looking for opportunities to help 
 
 If you or anyone you know is looking for a skilled front-end developer with a passion for quality, 🎓 please feel free to reach out to me to schedule an interview. 🚀 I'd be more than happy to share more about my experience and prove my knowledge.
 
-##### 💻 [Portfolio](https://example.com)
+#### 💻 [Portfolio](https://example.com)
 
-##### 📄 [Resume (Google Drive)](https://example.com)
+#### 📄 [Resume (Google Drive)](https://example.com)
 
-##### 📭 [maleev2017@ukr.net](mailto:example@example.com)
+#### 📭 [maleev2017@ukr.net](mailto:example@example.com)
 
 ## 🌐 Socials:
 
